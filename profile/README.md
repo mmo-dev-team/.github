@@ -3,7 +3,7 @@
 <p align="center">Server emulator from mmo-dev.info community</p>
 
 <p align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/mmo-dev-team/.github/main/image.png" />
+  <img width="75%" src="https://raw.githubusercontent.com/mmo-dev-team/.github/main/profile/image.png" />
 </p>
 
 <p align="center">
